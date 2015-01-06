@@ -114,6 +114,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Melanie Hsu http://bluemelodia.com/
 - Michael Borohovski http://shanewilton.com
 - Michael Ho Chum http://michaelchum.com
+- Michael Marek http://michaelm-k.github.io
 - Michael Zhang http://failedxyz.github.io
 - Milan Dasgupta http://www.milandasgupta.com
 - Milson Munakami http://milstein.me
@@ -409,6 +410,7 @@ Hackathon Hackers' GitHub profiles
 - Megan Chen https://github.com/gauss1181
 - Michael Gubbels https://github.com/mokogobo
 - Michael Ho https://github.com/michaelchum
+- Michael Marek https://github.com/michaelm-k
 - Michael Zhang https://github.com/failedxyz
 - Michelle Chiu https://github.com/michelle-chiu
 - Michelle Rojas https://github.com/mrojass
